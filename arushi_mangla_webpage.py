@@ -1,11 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[6]:
-
-
-pip install streamlit_option_menu
-
 
 # In[7]:
 
